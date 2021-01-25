@@ -1,5 +1,5 @@
 # Cook #WithMe
-Kotlin Android Application developed during #30DaysOfKotlin by Shivam
+Kotlin Android Application
 
 --------------
 
